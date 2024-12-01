@@ -9,6 +9,8 @@ This repository contains my solutions to the [Advent of Code 2024](https://adven
 
 - **AoC2024.ipynb**: The main Jupyter Notebook containing all solutions for the 2024 challenges. Each day's challenge is solved within a separate cell or section for clarity.
 - **README.md**: This file, providing an overview, usage instructions, and any relevant notes about the solutions.
+- **inputs/**: Directory containing input files for each day.
+   -  **inputs/#.txt**: Input file for Day 
 
 ### Usage
 
